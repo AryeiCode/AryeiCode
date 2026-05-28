@@ -43,7 +43,7 @@ Me motiva entender el negocio detrás del código: saber por qué existe una fun
 - Implementé APIs REST con autenticación JWT, Entity Framework Core y SQL Server
 
 ### 🏢 Accenture · Desarrollador Mobile
-`Ago 2019 – Jul 2020`
+`Nov 2019 – Jun 2020`
 - Desarrollé aplicaciones móviles con React Native integrando tecnología Bluetooth beacons
 - Integré Azure Cosmos DB y SQL Server en arquitecturas cloud
 
