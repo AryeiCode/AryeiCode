@@ -33,7 +33,8 @@ Me motiva entender el negocio detrás del código: saber por qué existe una fun
 `Ago 2023 – Ene 2026`
 - Implementé un flujo de desarrollo asistido por IA con GitHub Copilot y Claude para generación y optimización de pruebas, logrando un incremento del **80% en cobertura** y reduciendo el tiempo de desarrollo de tests en más del **60%**
 - Reduje en un **80% la deuda técnica** identificada por SonarQube mediante refactorización y buenas prácticas
-- Lideré la migración del ambiente de calidad a un entorno de ciberseguridad, mejorando la postura de seguridad y el cumplimiento normativo
+- Lideré la migración del ambiente de calidad a un entorno de ciberseguridad, facilitando el cumplimiento regulatorio del cliente mediante reconfiguración de infraestructura, con avances entregados semanalmente en sprints
+- Brindé soporte y resolución de incidentes utilizando **ServiceNow** para gestión y priorización de tickets, asegurando continuidad operativa con un SLA de disponibilidad del **89.9%** y atención inmediata a incidentes de nivel crítico
 
 ### 🏢 Newsoft · Consultor Técnico TI / Desarrollador Full Stack
 `Mar 2021 – Jun 2023`
@@ -96,13 +97,13 @@ Me motiva entender el negocio detrás del código: saber por qué existe una fun
 
 - 🎓 **Ingeniería de Sistemas** · Corporación Unificada Nacional *(2023–2025)*
 - 📜 **Tecnólogo en Análisis y Desarrollo de Sistemas** · SENA *(2020–2022)*
-- 📜 **Asistente en Desarrollo de Software** · CESDE *(2018–2020)*
+- 📜 **Técnico Laboral como Asistente en Desarrollo de Software** · CESDE *(2018–2020)*
 
 ---
 
 ## Actualmente
 
-- 🔍 Explorando oportunidades en desarrollo fullstack y proyectos independientes
+- 🔍 Explorando oportunidades en desarrollo fullstack — remoto o híbrido
 - 📚 Profundizando en arquitecturas de microservicios y automatización con N8N y Make
 - ☁️ Explorando AWS como complemento a mi experiencia práctica en Azure
 - 🌱 Mejorando mi inglés técnico activamente
